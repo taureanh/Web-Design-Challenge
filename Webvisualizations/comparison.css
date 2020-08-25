@@ -1,0 +1,110 @@
+body {
+    background-color: #e3e3e9;
+}
+.bg-light {
+    background-color: white;
+}
+
+.p-2 {
+    background-color: rgb(19, 175, 175);
+    margin-left: 3%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: whitesmoke;
+    max-height: max-content;
+}
+/*%%%%%%%%%%%%%%%% Landing Page %%%%%%%%%%%%*/
+#main_image {
+    float: left;
+    height: 50%;
+    width: 50%; 
+}
+@media (max-width:768px) {
+    #Head_lan {
+        background-color:rgb(19, 175, 175) ;
+    }
+}
+
+/*%%%%%%%%%%%%%%%%%%%%  Footer  %%%%%%%%%%%%%%%%%%%%%%%*/
+footer {
+    height: 10%;
+    margin-top: 10%;
+    color: white;
+    background-color: #333333;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: 15px;
+}
+/*%%%%%%%%%%%%%%%%%%%%% Visualize Html %%%%%%%%%%%%%%%%%*/
+.lat {
+    font-size: 30px;
+    background-color: rgb(19, 175, 175);
+    background-size: contain;
+    margin-left: 3%;
+    font-family: 'Times New Roman', Times, serif;
+    
+    color: white;
+    max-height: max-content;
+}
+.maxheader h1 {
+    font-family:'Times New Roman', Times, serif;
+    color: rgb(19, 175, 175);
+    margin-top: 3%;
+}
+.col-md-12 h1 {
+    font-family:'Times New Roman', Times, serif;
+    color: rgb(19, 175, 175);
+    font-size: 25px;
+}
+
+.col-md-2{
+    background-color: #e3e3e9;
+}
+#visual_header {
+   
+    background-color: white;
+    ;
+}
+.col-lg-5 {
+    background-color: #e3e3e9;
+}
+
+.col-md-12 img{
+    width: 200px;
+    height: 200px;
+}
+@media (max-width:700px) {
+    .col-ls-12 {
+        margin-top: 5%;
+    }
+}
+.container {
+    background-color: white;
+    margin-top: 2%;
+}
+
+/*%%%%%%%%%%%%%%%%%%%%% Data CSS %%%%%%%%%%%%%%%%%%%%%%%%*/
+table {
+    align-content: center;
+}
+#heading h1 {
+    margin-top: 3%;
+    color: rgb(19, 175, 175);
+    margin-left: 3%;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+.row p{
+    margin-left: 3%;
+    font-family:'Times New Roman', Times, serif;
+}
+
+/*%%%%%%%%%%%%%%%%%%%%% Comparison  %%%%%%%%%%%%%%%%%%%%%*/
+#comp_header h1 {
+    margin-top: 3%;
+    font-size: 30px;
+    color: rgb(19, 175, 175);
+    margin-left: 3%;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: bold;
+
+}
