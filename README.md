@@ -6,4 +6,5 @@ We'll create individual pages for each plot and a means by which we can navigate
 
 Programs used:\
 HTML\
+CSS\
 Jupyter Notebook.
